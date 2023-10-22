@@ -1,3 +1,50 @@
 body {
-    background-color: rgba(209, 102, 102, 0.789);
+    background-color: rgb(245, 139, 195);
+
+    
 }
+h1 {
+    text-align: center;
+}
+ .content h3 {
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    background-color:pink;
+    color: black;
+ }
+
+ .content {
+    background-color:pink;
+    color: black;
+    
+ }
+ .defintion-list h4 {
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    background-color:pink;
+    color: black;
+ }
+
+ .defintion-list{
+    text-align: center;
+    background-color:pink;
+    color: black;
+ }
+
+ .paragraphs, .emphasis, .blockquote-thing, .italic-font, .bold-font, .strong-font, .assigment {
+    background-color:pink;
+    color: black;
+ }
+
+ .assigment h2 {
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    background-color:pink;
+    color: black;
+ }
